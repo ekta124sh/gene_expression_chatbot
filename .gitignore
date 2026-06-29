@@ -1,0 +1,25 @@
+cat > .gitignore << 'EOF'
+# Secrets — NEVER commit these
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Logs & exports
+logs/
+exports/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+EOF
