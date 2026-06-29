@@ -1,4 +1,4 @@
-# 🧬 GeneXA — Gene Expression Intelligence Platform
+# 🧬 GeneXA — Gene Expression Search Assistant Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red?logo=streamlit)](https://streamlit.io)
